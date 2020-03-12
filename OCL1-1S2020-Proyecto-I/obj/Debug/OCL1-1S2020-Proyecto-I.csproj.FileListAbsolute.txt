@@ -1,0 +1,9 @@
+C:\Users\leo31\RiderProjects\OCL1-1S2020-Proyecto-I\OCL1-1S2020-Proyecto-I\bin\Debug\OCL1_1S2020_Proyecto_I.exe.config
+C:\Users\leo31\RiderProjects\OCL1-1S2020-Proyecto-I\OCL1-1S2020-Proyecto-I\bin\Debug\OCL1_1S2020_Proyecto_I.exe
+C:\Users\leo31\RiderProjects\OCL1-1S2020-Proyecto-I\OCL1-1S2020-Proyecto-I\bin\Debug\OCL1_1S2020_Proyecto_I.pdb
+C:\Users\leo31\RiderProjects\OCL1-1S2020-Proyecto-I\OCL1-1S2020-Proyecto-I\obj\Debug\OCL1-1S2020-Proyecto-I.csprojAssemblyReference.cache
+C:\Users\leo31\RiderProjects\OCL1-1S2020-Proyecto-I\OCL1-1S2020-Proyecto-I\obj\Debug\OCL1_1S2020_Proyecto_I.Properties.Resources.resources
+C:\Users\leo31\RiderProjects\OCL1-1S2020-Proyecto-I\OCL1-1S2020-Proyecto-I\obj\Debug\OCL1-1S2020-Proyecto-I.csproj.GenerateResource.cache
+C:\Users\leo31\RiderProjects\OCL1-1S2020-Proyecto-I\OCL1-1S2020-Proyecto-I\obj\Debug\OCL1_1S2020_Proyecto_I.exe
+C:\Users\leo31\RiderProjects\OCL1-1S2020-Proyecto-I\OCL1-1S2020-Proyecto-I\obj\Debug\OCL1_1S2020_Proyecto_I.pdb
+C:\Users\leo31\RiderProjects\OCL1-1S2020-Proyecto-I\OCL1-1S2020-Proyecto-I\obj\Debug\OCL1_1S2020_Proyecto_I.Form1.resources
