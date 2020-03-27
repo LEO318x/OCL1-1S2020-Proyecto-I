@@ -82,8 +82,27 @@ namespace OCL1_1S2020_Proyecto_I
             //MessageBox.Show("Analizando...");
             TextBox tmptb;
             tmptb = (TextBox) tabControl.SelectedTab.Controls["tab"];
-            AnalisisLexico x = new AnalisisLexico(tmptb.Text);
-            x.imprimir();
+            //AnalisisLexico x = new AnalisisLexico(tmptb.Text);
+            Analisis x = new Analisis(tmptb.Text);
+            // x.imprimir();
+            // x.imprimirError();
+            //x.htmlT();
+            x.htmlT();
+            x.htmlE();
+            //AnalisisER er = new AnalisisER();
+            //er.analisis(x.getTablaTokens().getTablaT().getPrimero());
+
+            Thompson t = new Thompson();
+            t.Mas("a");
+
+            //AnalisisER er = new AnalisisER();
+            //er.analisisTokens(x.getTablaTokens());
+
+            /*Thompson t = new Thompson();
+            t.Or("a", "b");
+            t.testOr();
+            t.graficar();*/
+
         }
     }
 }

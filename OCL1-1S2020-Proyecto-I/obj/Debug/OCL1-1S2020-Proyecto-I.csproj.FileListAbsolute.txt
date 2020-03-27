@@ -7,3 +7,5 @@ C:\Users\leo31\RiderProjects\OCL1-1S2020-Proyecto-I\OCL1-1S2020-Proyecto-I\obj\D
 C:\Users\leo31\RiderProjects\OCL1-1S2020-Proyecto-I\OCL1-1S2020-Proyecto-I\obj\Debug\OCL1_1S2020_Proyecto_I.exe
 C:\Users\leo31\RiderProjects\OCL1-1S2020-Proyecto-I\OCL1-1S2020-Proyecto-I\obj\Debug\OCL1_1S2020_Proyecto_I.pdb
 C:\Users\leo31\RiderProjects\OCL1-1S2020-Proyecto-I\OCL1-1S2020-Proyecto-I\obj\Debug\OCL1_1S2020_Proyecto_I.Form1.resources
+C:\Users\leo31\RiderProjects\OCL1-1S2020-Proyecto-I\OCL1-1S2020-Proyecto-I\obj\Debug\OCL1-1S2020-Proyecto-I.csproj.CoreCompileInputs.cache
+C:\Users\leo31\RiderProjects\OCL1-1S2020-Proyecto-I\OCL1-1S2020-Proyecto-I\obj\Debug\OCL1_1S2020_Proyecto_I.webForm.resources

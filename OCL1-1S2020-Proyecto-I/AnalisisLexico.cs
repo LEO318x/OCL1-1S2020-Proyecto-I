@@ -70,9 +70,13 @@ namespace OCL1_1S2020_Proyecto_I
                             estado = 26;
                         }else if (ch.Equals('\\'))
                         {
+                            Console.WriteLine("a 28");
                             lexema += ch;
                             columna += 1;
                             estado = 28;
+                        }else if ((int) ch == 32)
+                        {
+
                         }
 
                         break;
@@ -453,9 +457,40 @@ namespace OCL1_1S2020_Proyecto_I
                         }
                         break;
                     case 28:
+                        Console.WriteLine("28");
                         if (ch.Equals('n'))
                         {
-
+                            
+                            lexema += ch;
+                            Console.WriteLine(lexema);
+                            columna += 1;
+                            estado = 0;
+                            lexema = "";
+                        }
+                        else if (ch.Equals('\''))
+                        {
+                            
+                            lexema += ch;
+                            Console.WriteLine(lexema);
+                            columna += 1;
+                            estado = 0;
+                            lexema = "";
+                        }
+                        else if (ch.Equals('t'))
+                        {
+                            
+                            lexema += ch;
+                            Console.WriteLine(lexema);
+                            columna += 1;
+                            estado = 0;
+                            lexema = "";
+                        }
+                        else
+                        {
+                            Console.WriteLine(lexema);
+                            pos -= 1;
+                            lexema = "";
+                            estado = 0;
                         }
                         break;
                 }
@@ -465,7 +500,7 @@ namespace OCL1_1S2020_Proyecto_I
 
         public void imprimir()
         {
-            tk.imprimirTabla();
+            //tk.imprimirTabla();
         }
 
     }
